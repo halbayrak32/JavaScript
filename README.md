@@ -1,2 +1,2 @@
 # JavaScript
-[Patika Dev Linki](https://app.patika.dev/halbayrak32)
+[Patika Dev Linkim](https://app.patika.dev/halbayrak32)
